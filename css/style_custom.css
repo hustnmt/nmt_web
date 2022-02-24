@@ -1,0 +1,100 @@
+
+.body-bg {
+    background-color:#fff;
+    background-image:linear-gradient(to right, #fff,rgb(236, 236, 228));
+}
+.content-header-1{
+    color: #414040;
+    position: absolute;
+    left: 140px;
+    top: 15px;
+    align-content: center;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.content-header-2{
+    color: #414040;
+    letter-spacing: 2px;
+    position: absolute;
+    left:140px;
+    align-content: center;
+    padding-top: 45px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.login-header{
+    background-color: #fff;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height:100px ;
+    width: 100%;
+    box-shadow: 0 0px 124px 0px rgba(0, 0, 0, 0.2);
+}
+
+.login-logo{
+    width: 80px;
+    height: 110px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Logo_Hust.png/1200px-Logo_Hust.png");
+    background-repeat: no-repeat;
+    background-size: 60px;
+    position:absolute;
+    left: 60px;
+    top: 5px;
+}
+
+.footer-login {
+    position: relative;
+    bottom: 0;
+    height:80px;
+    width: 100%;
+}
+
+.text-footer{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-bottom: -10px;
+}
+
+.footer-line {
+    position: absolute;
+    bottom: 0;
+    height: 25px;
+    width: 100%;
+    background-color: #f22261;
+    background-image: linear-gradient(to right, #f22261,#f25c22);
+    background-size: cover;
+}
+
+.ff-login-box {
+    background:#fff;
+    border-radius:5px;
+    box-shadow: 0 0px 124px 0px rgba(0, 0, 0, 0.1);
+    margin:40px auto;
+    max-width:600px;
+    padding:60px;
+}
+.ff-login-box .btn {
+    background-color: #f22261;
+    background-image: linear-gradient(to right, #f22261,#f25c22);
+    background-size: cover;
+    border:none;
+    border-radius:10px;
+    width:100%;
+}
+.ff-login-box .btn:hover, .ff-login-box .btn:focus, .ff-login-box .btn:active {
+    background-color: #f22261;
+    background-image: linear-gradient(to right, #f22261,#f25c22);
+    background-size: cover;
+    border:none !important;
+    box-shadow:none !important;
+}
+
+.mt-10{
+    margin-top: 10px !important;
+}
