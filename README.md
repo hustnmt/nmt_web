@@ -1,2 +1,3 @@
-# Trang web quản lý đào tạo dành cho Trường đại học.
+# Quản lý đào tạo dành cho trường đại học.
 Mội cái web cùi cùi.
+Quản lý đào tạo trường ĐH
