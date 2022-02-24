@@ -211,10 +211,10 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`email`, `fullname`, `birthday`, `Ma_Khoa`, `address`, `phone`, `password`, `level`, `time`) VALUES
-('admin@hust.edu.vn', 'Nguyễn Mạnh Tùng', '2001-07-05', 'pdt', 'Nam Định', 843260856, 'e10adc3949ba59abbe56e057f20f883e', 1, '2022-01-03 17:14:16'),
-('hiep.pc@hust.edu.vn', 'Phạm Chính Hiệp', '2002-06-13', 'set', 'Bắc Ninh', 978632541, 'e10adc3949ba59abbe56e057f20f883e', 0, '2022-01-03 17:14:16'),
+('admin@hust.edu.vn', 'Nguyễn Mạnh Tùng', '2001-07-05', 'pdt', 'Nam Định', 843250856, 'e10adc3949ba59abbe56e057f20f883e', 1, '2022-01-03 17:14:16'),
+('hiep.pc@hust.edu.vn', 'Phạm Chính Hiệp', '2002-06-13', 'set', 'Bắc Ninh', 986732541, 'e10adc3949ba59abbe56e057f20f883e', 0, '2022-01-03 17:14:16'),
 ('nam.nd@hust.edu.vn', 'Nguyễn Đức Nam', '2017-05-23', 'gdqp', 'Ý Yên', 265654684, 'e10adc3949ba59abbe56e057f20f883e', 0, '2022-01-03 17:27:46'),
-('tung.nm@hust.edu.vn', 'Nguyễn Mạnh Tùng', '2001-07-05', 'set', 'Nam Định', 843260856, 'e10adc3949ba59abbe56e057f20f883e', 0, '2022-01-03 17:26:35');
+('tung.nm@hust.edu.vn', 'Nguyễn Mạnh Tùng', '2001-07-05', 'set', 'Nam Định', 843250856, 'e10adc3949ba59abbe56e057f20f883e', 0, '2022-01-03 17:26:35');
 
 --
 -- Indexes for dumped tables
